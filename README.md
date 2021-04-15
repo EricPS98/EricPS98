@@ -1,8 +1,11 @@
 # Hello World, I'm Eric Palmeira de Souza  👋
-
+<p>
 Sou recém- formado em Sistemas de Informação, em busca de oportunidades na área de desenvolvimento front ou back-end;
+<br>
 Atualmente estudando mais sobre front end, melhorando minhas capacidades com cursos online;
+<br>
 Atualmente trabalhando na área de infra no Grupo Itavema.
+</p>
 
 Mais sobre mim
 <br>
