@@ -9,9 +9,13 @@ Atualmente trabalhando na área de infra no Grupo Itavema.
 
 Mais sobre mim
 <br>
-<src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EricPS98"/> (https://github.com/EricPS98)
+<code>
+ <src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EricPS98"/> (https://github.com/EricPS98)
+</code>
 <br>
-<src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericps98"/>(https://www.linkedin.com/in/ericps98/)‎
+<code>
+ <src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericps98"/>(https://www.linkedin.com/in/ericps98/)‎
+</code>
 
 
 Obrigado pela visita.
